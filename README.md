@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ypingcn/ypingcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ypingcn&show_icons=true">
 
-Here are some ideas to get you started:
+## 个人简介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+职业方向是后端开发，熟悉 Linux 环境下的 C++ 微服务（基于 [Tars](https://github.com/TarsCloud/) 框架）开发，在尝试向 Golang 方向转变。
+
+## 博客
+
+https://blog.ypingcn.com
+
+<!-- 访客 -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ypingcn.readme" alt="visitor badge"/>
+</p>
